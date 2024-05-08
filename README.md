@@ -21,13 +21,13 @@ Instale as dependências
     npm install
 ```
 
-Para ver as funções, acesse o diretório SRC
+Para ver as funções, acesse o diretório `src`
 
 ```bash
     src/
 ```
 
-Para visualizar os testes, acesse o diretório TEST
+Para visualizar os testes, acesse o diretório `test`
 
 ```bash
     test/
