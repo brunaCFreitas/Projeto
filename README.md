@@ -12,7 +12,7 @@ Clone o repositório
 Entre no diretório
 
 ```bash
-    Projeto-Zoo-Functions
+    cd Projeto-Zoo-Functions
 ```
 
 Instale as dependências
@@ -24,13 +24,13 @@ Instale as dependências
 Para ver as funções, acesse o diretório `src`
 
 ```bash
-    src/
+    cd src/
 ```
 
 Para visualizar os testes, acesse o diretório `test`
 
 ```bash
-    test/
+    cd test/
 ```
 <hr>
 
